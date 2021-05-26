@@ -1,0 +1,25 @@
+[
+    {
+        "name":"ngx-confirm",
+        "slug":"ngx-confirm",
+        "icon":"https://ps.w.org/jetpack/assets/icon-256x256.png?rev=2394525",
+        "date":"2021/05/26 12:20:00",
+        "duration":"",
+        "paratext":"Mix and match multiple content types to create the card you need, or throw everything in there. Shown below are image styles, blocks, text styles, and a list group—all wrapped in a fixed-width card.",
+        "contributors":[
+            {
+                "name":"Prathmesh Bhansali",
+                "icon":"assets/images/contributors/prathmesh-10.png",
+                "profileurl":"https://github.com/pratham-10"
+            },
+            {
+                "name":"The Nikiphoros",
+                "icon":"assets/images/contributors/nikiphoros.jpg",
+                "profileurl":"https://github.com/nikiphoros"
+            }
+        ],
+        "languages":[
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"
+        ]
+    }
+]

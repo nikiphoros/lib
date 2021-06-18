@@ -1,6 +1,6 @@
 [
     {
-        "name":"ngx-confirm",
+        "name":"@nikiphoros/ngx-confirm",
         "slug":"ngx-confirm",
         "icon":"https://ps.w.org/jetpack/assets/icon-256x256.png?rev=2394525",
         "date":"2021/05/26 12:20:00",
@@ -12,6 +12,42 @@
                 "icon":"assets/images/contributors/prathmesh-10.png",
                 "profileurl":"https://github.com/pratham-10"
             },
+            {
+                "name":"The Nikiphoros",
+                "icon":"assets/images/contributors/nikiphoros.jpg",
+                "profileurl":"https://github.com/nikiphoros"
+            }
+        ],
+        "languages":[
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"
+        ]
+    },
+    {
+        "name":"@nikiphoros/ngx-toggle",
+        "slug":"ngx-toggle",
+        "icon":"https://ps.w.org/jetpack/assets/icon-256x256.png?rev=2394525",
+        "date":"2021/06/18 12:20:00",
+        "duration":"",
+        "paratext":"This directive library helps you to set the value of ngTrue and ngFalse for HTML Form checkbox element in angular other than boolean value(true|false). It is simply an alternative to the ng-true-value and ng-false-value in angular 2+.",
+        "contributors":[
+            {
+                "name":"The Nikiphoros",
+                "icon":"assets/images/contributors/nikiphoros.jpg",
+                "profileurl":"https://github.com/nikiphoros"
+            }
+        ],
+        "languages":[
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"
+        ]
+    },
+    {
+        "name":"@nikiphoros/ngx-rating",
+        "slug":"ngx-rating",
+        "icon":"https://ps.w.org/jetpack/assets/icon-256x256.png?rev=2394525",
+        "date":"2021/06/18 18:05:00",
+        "duration":"",
+        "paratext":"Rating library for your angular 2+ applications. Does not depend on any other library. It supports all angular web applications, mobile applications (like ionic). It also supports on both mobile and browse",
+        "contributors":[
             {
                 "name":"The Nikiphoros",
                 "icon":"assets/images/contributors/nikiphoros.jpg",
